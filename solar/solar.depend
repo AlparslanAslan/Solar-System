@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606964235 source:c:\users\asus\desktop\solar\main.c
+	"Solar.h"
+	<stdlib.h>
+	<GL/glut.h>
+
+1606964075 c:\users\asus\desktop\solar\solar.h
+
